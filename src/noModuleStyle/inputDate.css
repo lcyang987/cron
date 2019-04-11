@@ -1,0 +1,13 @@
+.inputDate {
+  width: 0 !important;
+  padding: 0 !important;
+  border-right: none !important;
+}
+.inputDate+span.ant-input-group-addon {
+  width: 0 !important;
+  padding: 0 !important;
+}
+.inputDate+span.ant-input-group-addon .ant-calendar-picker-input {
+  border: none !important;
+  height: 28px;
+}

@@ -1,0 +1,18 @@
+.input {
+  width: 50px !important;
+  margin: 0 6px !important;
+}
+.input_year {
+  width: 60px !important;
+  margin: 0 6px !important;
+}
+.div {
+  display: inline-block !important;
+  vertical-align: top !important;
+}
+.checkbox {
+  width: 48px !important;
+}
+.checkbox_day {
+  width: 58px !important;
+}

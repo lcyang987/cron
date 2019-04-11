@@ -1,0 +1,19 @@
+/* antd 3.9.3 */
+/* .inputSelect {
+  width: 0 !important;
+  padding: 0 !important;
+  border-right: none !important;
+}
+.inputSelect+span.ant-input-group-addon{
+  background: white;
+} */
+
+
+.inputSelect .ant-input {
+  width: 0 !important;
+  padding: 0 !important;
+  border-right: none !important;
+}
+.inputSelect .ant-input+span.ant-input-group-addon{
+  background: white;
+}
